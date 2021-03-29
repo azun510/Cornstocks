@@ -22,7 +22,7 @@ CornStocks helps investors track their stocks by providing live market data. The
 
 Live Page: https://cornstocks-10-team.herokuapp.com/
 
-GitHub Repository: https://github.com/subin-su/Project02-Requirements
+GitHub Repository: https://azun510.github.io/Cornstocks/
 
 
 ## Images
